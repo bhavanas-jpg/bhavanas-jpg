@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/bhavana814" target="blank"><img src="https://img.shields.io/twitter/follow/bhavana814?logo=twitter&style=for-the-badge" alt="bhavana814" /></a> </p>
 
-- 🌱 I’m currently learning **MERN @neogcamp**
+- 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://bhavanas-portfolio.netlify.app/](https://bhavanas-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [portfolio](https://bhavanas-portfolio.netlify.app/)
 
-- 📝 I regularly write articles on [https://dev.to/bhavanasjpg](https://dev.to/bhavanasjpg)
+- 📝 I regularly write articles on [hashnode](https://hashnode.com/@bhavi)
 
 - 💬 Ask me about **React, Javascript**
 
@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/bhavana s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bhavana s" height="30" width="40" /></a>
+<a href="https://hashnode.com/@bhavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bhavana s" height="30" width="40" /></a>
 <a href="https://twitter.com/bhavana814" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhavana814" height="30" width="40" /></a>
 </p>
 
